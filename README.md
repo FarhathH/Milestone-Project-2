@@ -1,10 +1,24 @@
-# Milestone Project 2
+# Amy Rose Dress-Up Game
 
-## Overview
+## Project overview
 
 This README contains the overall development of the [PROJECT-NAME] website.
 
 <hr>
+
+## Purpose
+## Target Audience
+## UX-Strategy
+## UX-Skeleton
+## User Stories
+## Design/Wireframes
+## Features
+## Accessibility
+## Responsive Design
+## Testing → Bugs and Fixes
+## Deployment
+## Credits
+## Future Features
 
 ## User Experience
 
