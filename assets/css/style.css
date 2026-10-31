@@ -22,7 +22,7 @@
 
 /*Imported link with both Google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Unkempt:wght@400;700&display=swap');
-
+/*variables for my web game*/
 :root{
     --main-font: "Cherry Bomb One", system-ui;
     --secondary-font: "Unkempt", cursive;
@@ -48,18 +48,17 @@ p{
     font-size: 2.5rem;
 }
 
+/*For the layout grid of the webpages*/
 .container{
     background-color: aliceblue;
     height: fit-content;
     padding: 100px;
 }
-
 .row{
     background-color: grey; 
     padding: 10px;
     text-align: center;
 }
-
 .contain{
     background-color: lightslategrey;
     border: solid 1px aliceblue;
