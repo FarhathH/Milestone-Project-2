@@ -1,4 +1,67 @@
+/*
+.cherry-bomb-one-regular {
+  font-family: "Cherry Bomb One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.unkempt-regular {
+  font-family: "Unkempt", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.unkempt-bold {
+  font-family: "Unkempt", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+*/
+
+/*Imported link with both Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Unkempt:wght@400;700&display=swap');
+
+:root{
+    --main-font: "Cherry Bomb One", system-ui;
+    --secondary-font: "Unkempt", cursive;
+}
+
+
+/*
+    testing the custom CSS
+*/
 body{
     color: pink;
     background-color: red;
+}
+
+/*
+    testing out google fonts
+*/
+h1{
+    font-family: var(--main-font);
+}
+p{
+    font-family: var(--secondary-font);
+    font-size: 2.5rem;
+}
+
+.container{
+    background-color: aliceblue;
+    height: fit-content;
+    padding: 100px;
+}
+
+.row{
+    background-color: grey; 
+    padding: 10px;
+    text-align: center;
+}
+
+.contain{
+    background-color: lightslategrey;
+    border: solid 1px aliceblue;
+    height: 100%;
 }
