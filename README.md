@@ -19,18 +19,20 @@ The main demographic audience are the rough age groups of 5-12 year old girls. T
 This was the stage where I needed to be able to stick to a layout and design that is simple enough for the younger audience to be able to figure out where to navigate and where to go. The structure was short and simple. I just kept note of what was important to include in the game with the amount of time I had. The business side of things weren’t too much of a bother as this game was for fair use.
 
 ### Strategy
-[Include mind map on the business and functions of the app]
+![Mindmap of my rough strategy](https://github.com/user-attachments/assets/5598773f-466f-40dd-861e-327fdfc74777)
 
 ### Structure
-INSERT INFORMATION ARCHITECTURE HERE (ow the users interact and move through the game
+![The information architecture for the dress-up game](https://github.com/user-attachments/assets/8b71ee34-dfe0-47a4-ac96-80416e04b0b8)
 
 ### Skeleton
-[Main menu](link to wireframe)
-[Dress Up screen](link to wireframe)
-[Results screen](link to wireframe)
+[Main menu wireframes](https://github.com/user-attachments/assets/2edf40f0-e6c3-4b77-9d1f-7e453c43a465)
+
+[Dress Up screen wireframes](https://github.com/user-attachments/assets/5f13ab2c-626c-4470-a4fd-acf28973d560)
+
+[Results screen](https://github.com/user-attachments/assets/661f88db-73be-4d8f-8134-e58a04f4a425)
 
 ### Scope
-[Include table of what to prioritise and what to leave out based on objectives]
+![table of what to prioritise and what to leave out based on objectives](https://github.com/user-attachments/assets/eaa4864f-1b92-4438-946c-ec55b07caac1)
 
 ### Surface
 [Smoother look on final design]
@@ -40,19 +42,15 @@ INSERT INFORMATION ARCHITECTURE HERE (ow the users interact and move through the
 2. As a year-7 student, I just wanted to look for a simple game that I can play on my mobile phone so that I don’t have to wait until I get home to play.
 3. As a young adult, I prefer to play these types of games with the visuals reminiscent of the Y2K era for nostalgic purposes. 
 
-## Design/Wireframes
+## Design
 [Include concept designs]
 
 ## Features
 * Main menu
   * Start button:
     * Users can click this button to begin.
-  * Options:
-    * Users can edit audio/resolution quality.
 * Dress-Up screen
   * Selection of clothes
-  * Make-up palettes
-  * Accessories such as jewellery, shoes etc.
 * Results
   * Users can see Amy with the outfit of their picking.
   * Users can select whether to try again or go back to the main menu.
@@ -105,5 +103,9 @@ If you don’t have the repository yet, you will need to follow these steps to c
   * They can select different soundtracks related to the character.
 * Quality settings
 * Character selection
+* Options:
+    * Users can edit audio/resolution quality.
+* Make-up palettes
+    * Accessories such as jewellery, shoes etc.
 
 
