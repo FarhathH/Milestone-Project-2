@@ -52,7 +52,7 @@ p{
 .container{
     background-color: aliceblue;
     height: fit-content;
-    padding: 100px;
+    padding-top: 100px;
 }
 .row{
     background-color: grey; 
@@ -65,3 +65,10 @@ p{
     height: 100%;
 }
 
+@media screen and (max-width:414px) {
+    .container{
+        max-width: 100%;
+        margin: auto;
+    }
+
+}
