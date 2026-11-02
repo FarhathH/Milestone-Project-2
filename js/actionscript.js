@@ -14,9 +14,9 @@
  */
 $(document).ready(function(){
     
-  // jQuery methods go here...
+  // Should redirect user to the dress up screen
     $("#begin").click(function(){
-        $("p").remove();
+        window.location.href = "dressupscreen.html";
         
     });
 }); 
