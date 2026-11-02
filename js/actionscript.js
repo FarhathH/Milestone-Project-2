@@ -12,4 +12,11 @@
 });
  
  */
-
+$(document).ready(function(){
+    
+  // jQuery methods go here...
+    $("#begin").click(function(){
+        $("p").remove();
+        
+    });
+}); 
