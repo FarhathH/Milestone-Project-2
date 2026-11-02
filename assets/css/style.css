@@ -65,6 +65,7 @@ p{
     height: 100%;
 }
 
+/*To fix the smaller screen for the game*/
 @media screen and (max-width:414px) {
     .container{
         max-width: 100%;
