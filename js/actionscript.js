@@ -12,11 +12,19 @@
 });
  
  */
+
+
+//Helps the code to load up ready for user interaction
 $(document).ready(function(){
     
-  // Should redirect user to the dress up screen
+  // Should redirect user to the dress up screen via click event handler
     $("#begin").click(function(){
         window.location.href = "dressupscreen.html";
         
+    });
+
+    //Should redirect the user to the result page via click event handler
+    $("#time-for-results").click(function(){
+        window.location.href = "results.html";
     });
 }); 
