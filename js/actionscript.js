@@ -27,4 +27,9 @@ $(document).ready(function(){
     $("#time-for-results").click(function(){
         window.location.href = "results.html";
     });
+
+    //Should allow user to go back to the main menu
+    $("#play-again").click(function(){
+        window.location.href = "dressupscreen.html";
+    });
 }); 
