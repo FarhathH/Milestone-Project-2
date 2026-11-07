@@ -32,4 +32,9 @@ $(document).ready(function(){
     $("#play-again").click(function(){
         window.location.href = "dressupscreen.html";
     });
+
+    //Allows user to go back to the main menu
+    $("#truly-finished").click(function(){
+        window.location.href = "index.html";
+    });
 }); 
