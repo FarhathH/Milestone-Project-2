@@ -59,9 +59,14 @@ This was the stage where I needed to be able to stick to a layout and design tha
 [include details on making the game accessible through colour contrast and aria-labels]
 
 ## Responsive Design
-[Explain how the game reacts to different]
+
+![The wireframes](https://github.com/user-attachments/assets/477f1180-6fbe-465e-9d83-e7553708b8cb)
+
+![The beginning of the responsive designs](https://github.com/user-attachments/assets/d8e476f5-80b5-4309-a7e2-ace6f5d7d164)
 
 ## Testing → Bugs and Fixes
+
+![The table displaying info on test, bugs and fixes](https://github.com/user-attachments/assets/12441999-9d73-45c8-b6e5-10de01733370)
 
 ## Deployment
 This project was made using VS Code and committed with GitHub Desktop majority of the time. Here are the steps to deploy the website on your own (if you already have the repository).
