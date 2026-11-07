@@ -94,6 +94,7 @@ If you don’t have the repository yet, you will need to follow these steps to c
 * JavaScript/jQuery:
   * Most of the JavaScript Coding was implemented using [jQuery](https://api.jquery.com/) library and documentation as guidelines for implementing interactive elements via your computer mouse.
   * [W3schools](https://www.w3schools.com/html/html5_draganddrop.asp) for documentation and referencing the click and drag functions as well as other JavaScript coding.
+  * Also took the page linking method from [W3School doc website](https://www.w3schools.com/howto/howto_js_redirect_webpage.asp).
 * HTML/CSS:
   * Main interfaces created from basic HTML5 and [Bootstrap](https://getbootstrap.com/docs/6.0/getting-started/install/) with some my my own custom CSS.
 ### Content
@@ -101,6 +102,9 @@ If you don’t have the repository yet, you will need to follow these steps to c
 * Amy Rose, clothes and accessories sprites created by myself via [GIMP](https://www.gimp.org/).
 ### Media:
 * Everything produced was used with VS Code, GIMP etc.
+* Fonts taken from [Google Fonts](https://fonts.google.com/selection):
+  * Cherry Bomb One (for the main headings)
+  * Unkempt (For general text) 
 
 ## Future Features
 * Music volume settings
