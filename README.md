@@ -59,9 +59,14 @@ This was the stage where I needed to be able to stick to a layout and design tha
 [include details on making the game accessible through colour contrast and aria-labels]
 
 ## Responsive Design
-[Explain how the game reacts to different]
+
+![The wireframes](https://github.com/user-attachments/assets/477f1180-6fbe-465e-9d83-e7553708b8cb)
+
+![The beginning of the responsive designs](https://github.com/user-attachments/assets/d8e476f5-80b5-4309-a7e2-ace6f5d7d164)
 
 ## Testing → Bugs and Fixes
+
+![The table displaying info on test, bugs and fixes](https://github.com/user-attachments/assets/12441999-9d73-45c8-b6e5-10de01733370)
 
 ## Deployment
 This project was made using VS Code and committed with GitHub Desktop majority of the time. Here are the steps to deploy the website on your own (if you already have the repository).
@@ -89,6 +94,7 @@ If you don’t have the repository yet, you will need to follow these steps to c
 * JavaScript/jQuery:
   * Most of the JavaScript Coding was implemented using [jQuery](https://api.jquery.com/) library and documentation as guidelines for implementing interactive elements via your computer mouse.
   * [W3schools](https://www.w3schools.com/html/html5_draganddrop.asp) for documentation and referencing the click and drag functions as well as other JavaScript coding.
+  * Also took the page linking method from [W3School doc website](https://www.w3schools.com/howto/howto_js_redirect_webpage.asp).
 * HTML/CSS:
   * Main interfaces created from basic HTML5 and [Bootstrap](https://getbootstrap.com/docs/6.0/getting-started/install/) with some my my own custom CSS.
 ### Content
@@ -96,6 +102,9 @@ If you don’t have the repository yet, you will need to follow these steps to c
 * Amy Rose, clothes and accessories sprites created by myself via [GIMP](https://www.gimp.org/).
 ### Media:
 * Everything produced was used with VS Code, GIMP etc.
+* Fonts taken from [Google Fonts](https://fonts.google.com/selection):
+  * Cherry Bomb One (for the main headings)
+  * Unkempt (For general text) 
 
 ## Future Features
 * Music volume settings
