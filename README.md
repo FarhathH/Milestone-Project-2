@@ -21,6 +21,8 @@ This was the stage where I needed to be able to stick to a layout and design tha
 ### Strategy
 ![Mindmap of my rough strategy](https://github.com/user-attachments/assets/5598773f-466f-40dd-861e-327fdfc74777)
 
+![Y2K themed mood board for inspiration](https://github.com/user-attachments/assets/fb23241c-c5e8-4663-9212-a6ffbeb202d2)
+
 ### Structure
 ![The information architecture for the dress-up game](https://github.com/user-attachments/assets/8b71ee34-dfe0-47a4-ac96-80416e04b0b8)
 
@@ -100,6 +102,15 @@ If you don’t have the repository yet, you will need to follow these steps to c
 ### Content
 * The concept of a dress-up game isn’t exactly unique, but I want to explore this genre with Amy Rose. Either she’s dressing up for a date, a fashion audition or discovering a new look.
 * Amy Rose, clothes and accessories sprites created by myself via [GIMP](https://www.gimp.org/).
+* Y2K mood board (credit for all the images used):
+  *   Images of the two Japanese women in alternative fashion were taken from [TBD Tuyên](https://www.pexels.com/@tbd-tuyen-859104985/).
+  *   The images of a woman in a pink top and denim skirt and the woman with the black and purple top were taken from [Yaritza](https://www.pexels.com/@yaritza-226643218/).
+  *   The image of the woman wearing pink sunglasses, mini top and jeans were taken from [The Earthy Jay](https://www.pexels.com/@the-earthy-jay-380084919/).
+  *   The image of the yellow flip phone was taken from [Frank Schrader](https://www.pexels.com/@franki-frank/).
+  *   Image of a drag artist wearing a pink cowboy hat, pink t-shirt, baggy jeans and long sleeve gloves was taken from [SLAYTINA's pexel page](https://www.pexels.com/@slaytinaaaa/).
+  *   The image of a pile of early smartphones and older iPod devices were taken from [Skyler Ewing](https://www.pexels.com/@skyler-ewing-266953/).
+  *   The image of CD's and a CD player were taken from [Odin Reyna](https://www.pexels.com/@odin-reyna-383507/).
+ 
 ### Media:
 * Everything produced was used with VS Code, GIMP etc.
 * Fonts taken from [Google Fonts](https://fonts.google.com/selection):
