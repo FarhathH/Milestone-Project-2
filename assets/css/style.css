@@ -86,3 +86,13 @@ p{
     margin-left: 10px;
 }
 }
+
+/*
+    Fixing the responsiveness of Amy Rose's idle pose
+*/
+@media screen and (max-width:445px) {
+    #amy-idle-pose{
+        width:100%;
+        margin:auto;
+    }
+}
