@@ -37,4 +37,24 @@ $(document).ready(function(){
     $("#truly-finished").click(function(){
         window.location.href = "index.html";
     });
+    
+    /**
+     * interaction for user selection on different outfits.
+     */
+
+    $("#no-1").click(function(){
+        $("#amy-idle-pose").attr("src", "assets/images/firstOutfit.webp");
+    });
+
+    $("#no-2").click(function(){
+        $("#amy-idle-pose").attr("src", "assets/images/secondOutfit.webp");
+    });
+
+    $("#no-3").click(function(){
+        $("#amy-idle-pose").attr("src", "assets/images/thirdOutfit.webp");
+    });
+
+    $("#no-4").click(function(){
+        $("#amy-idle-pose").attr("src", "assets/images/fourthOutfit.webp");
+    });
 }); 
