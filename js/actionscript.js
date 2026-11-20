@@ -28,7 +28,7 @@ $(document).ready(function(){
         
     });
 
-    //Checking the condition if the localStorage has any value before displaying the chosen outfit on the results page.
+    //Checking the condition if the localStorage has any value before displaying the chosen outfit on the results
     if(localStorage.getItem("savedOutfit") != null){
             $("#chosen-outfit").attr("src", finalOutfit[outfitSelected]);
         } 
