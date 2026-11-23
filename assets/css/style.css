@@ -33,8 +33,8 @@
     testing the custom CSS
 */
 body{
-    color: pink;
-    background-color: red;
+    color: #ffc0cb;
+    background-color: #ff0000;
 }
 
 /*
@@ -51,18 +51,18 @@ p{
 
 /*For the layout grid of the webpages*/
 .container{
-    background-color: aliceblue;
+    /*background-color: aliceblue;*/
     height: fit-content;
     padding-top: 100px;
 }
 .row{
-    background-color: grey; 
+    /*background-color: grey; */
     padding: 10px;
     text-align: center;
 }
 .contain{
-    background-color: lightslategrey;
-    border: solid 1px aliceblue;
+    /*background-color: lightslategrey;
+    border: solid 1px aliceblue;*/
     height: 100%;
 }
 
@@ -74,6 +74,19 @@ p{
         margin: auto;
     }
 
+    /*Made for the purpose of fitting the outfit menu 
+    on the page for smaller screen sizes.*/
+    .outfit-menu{
+        margin-top: 20px;
+        height: 100px;
+        width:200px;
+        overflow: scroll;
+        border: 1px solid pink;
+    }
+
+    .smaller-button{
+        margin-top:auto;
+    } 
 }
 
 @media screen and (max-width:438px) {
