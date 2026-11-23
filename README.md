@@ -66,9 +66,12 @@ This was the stage where I needed to be able to stick to a layout and design tha
 
 ![The beginning of the responsive designs](https://github.com/user-attachments/assets/d8e476f5-80b5-4309-a7e2-ace6f5d7d164)
 
+![The updated version of the responsive designs](https://github.com/user-attachments/assets/31719740-f9e6-4bdb-89c2-874585b878de)
+
 ## Testing → Bugs and Fixes
 
-![The table displaying info on test, bugs and fixes](https://github.com/user-attachments/assets/12441999-9d73-45c8-b6e5-10de01733370)
+![testing results page 1](https://github.com/user-attachments/assets/03b0b573-353c-442e-b76c-2e37822b1436)
+![testing results page 2](https://github.com/user-attachments/assets/234f13b7-ecde-41c9-9ef6-5bbc35ca1c12)
 
 ## Deployment
 This project was made using VS Code and committed with GitHub Desktop majority of the time. Here are the steps to deploy the website on your own (if you already have the repository).
