@@ -56,10 +56,7 @@ This was the stage where I needed to be able to stick to a layout and design tha
 * Results
   * Users can see Amy with the outfit of their picking.
   * Users can select whether to try again or go back to the main menu.
-
-## Accessibility
-[include details on making the game accessible through colour contrast and aria-labels]
-
+ 
 ## Responsive Design
 
 ![The wireframes](https://github.com/user-attachments/assets/477f1180-6fbe-465e-9d83-e7553708b8cb)
@@ -67,6 +64,10 @@ This was the stage where I needed to be able to stick to a layout and design tha
 ![The beginning of the responsive designs](https://github.com/user-attachments/assets/d8e476f5-80b5-4309-a7e2-ace6f5d7d164)
 
 ![The updated version of the responsive designs](https://github.com/user-attachments/assets/31719740-f9e6-4bdb-89c2-874585b878de)
+
+## Accessibility
+![Exploring and comparing colour patches for my webpage.](https://github.com/user-attachments/assets/64c6b0c7-b71c-45f8-9d10-a52f8f979037)
+![Webpages with the colour scheme that I picked](https://github.com/user-attachments/assets/8e129a3f-18d1-4c75-af2a-927b3c6d8aaa)
 
 ## Testing → Bugs and Fixes
 
