@@ -34,7 +34,19 @@
 */
 body{
     color: #ffc0cb;
-    background-color: #ff0000;
+    background-image: url("/assets/images/webpageBackgroundFinalChoice.webp");
+    background-repeat: repeat;
+    
+}
+
+/*
+    Makes the button stand out
+*/
+button{
+    background-color: #520000;
+    color:#ffcdcb;
+    border-radius: 10px;
+    border: 3px solid #ffcdcb;
 }
 
 /*
@@ -53,7 +65,10 @@ p{
 .container{
     /*background-color: aliceblue;*/
     height: fit-content;
+    margin-top: 100px;
     padding-top: 100px;
+    background-color: rgba(0, 0, 0, 0.5);
+    
 }
 .row{
     /*background-color: grey; */
