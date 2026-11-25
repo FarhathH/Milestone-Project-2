@@ -20,17 +20,23 @@ $(document).ready(function(){
     //For keeping track of the outfit chosen and decides which outfit will be displayed
     var outfitSelected = localStorage.getItem("savedOutfit");
     var finalOutfit =["assets/images/firstOutfit.webp", "assets/images/secondOutfit.webp", 
-        "assets/images/thirdOutfit.webp", "assets/images/fourthOutfit.webp"];
-    
-  // Should redirect user to the dress up screen via click event handler
+        "assets/images/thirdOutfit.webp", "assets/images/fourthOutfit.webp", "assets/images/AmyRoseIdlePose.webp"];
+
+    //Set in the case that the user picks nothing.    
+    var defaultOutfit = localStorage.getItem('nothing');
+    localStorage.setItem('nothing', 4);
+
+    // Should redirect user to the dress up screen via click event handler
     $("#begin").click(function(){
         window.location.href = "dressupscreen.html";
-        
     });
 
     //Checking the condition if the localStorage has any value before displaying the chosen outfit on the results
     if(localStorage.getItem("savedOutfit") != null){
             $("#chosen-outfit").attr("src", finalOutfit[outfitSelected]);
+        }else{
+            $("#finalMessage").html("Aww. You didn't like the outfits?");
+            $("#chosen-outfit").attr("src", finalOutfit[defaultOutfit]);
         } 
 
      /**

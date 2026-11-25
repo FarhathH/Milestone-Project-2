@@ -49,6 +49,12 @@ button{
     border: 3px solid #ffcdcb;
 }
 
+button:hover{
+    background-color: #ffcdcb;
+    color: #520000;
+    border: 3px solid #520000;
+}
+
 /*
     testing out google fonts
 */
