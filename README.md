@@ -19,14 +19,20 @@ The main demographic audience are the rough age groups of 5-12 year old girls. T
 This was the stage where I needed to be able to stick to a layout and design that is simple enough for the younger audience to be able to figure out where to navigate and where to go. The structure was short and simple. I just kept note of what was important to include in the game with the amount of time I had. The business side of things weren’t too much of a bother as this game was for fair use.
 
 ### Strategy
+At this stage, I had to be able to put some thought into how the game would be executed. I thought about the type of outfits that Amy could wear and the context for this. Based on the target demographic. I had to be mindful of the type of outfits worn by her. At this stage I had tried to brainstorm typical outfits that teens of the y2k period could potentially wear. The mood board was created to help with inspiration.
+
 ![Mindmap of my rough strategy](https://github.com/user-attachments/assets/5598773f-466f-40dd-861e-327fdfc74777)
 
 ![Y2K themed mood board for inspiration](https://github.com/user-attachments/assets/fb23241c-c5e8-4663-9212-a6ffbeb202d2)
 
 ### Structure
+This was the information architecture for the game that I planned on doing. There were some parts that I had left out. I had originally made this in mind of having additional features along with the basic features for a complete game. Although I had some ideas in mind for the menu, characters and extra accessories. I did prioritise the main features that would be used for this structure e.g. menu, outfit selection and results.
+
 ![The information architecture for the dress-up game](https://github.com/user-attachments/assets/8b71ee34-dfe0-47a4-ac96-80416e04b0b8)
 
 ### Skeleton
+These are some rough sketches of how the layout of the game was supposed to look. In the earlier concepts. Amy Rose would have a half-body pose in the title screen. This did change to a floating chibi head to work around my own time management. This way I could implement the visual assets while saving some time. Most of the wireframes include the important features such as having a main menu and navigating to the dress up screen, the user being able to see outfits and Amy Rose trying on those outfits with the results screen. I never included an options screen since I was short on time. I treated that as an optional feature.
+
 [Main menu wireframes](https://github.com/user-attachments/assets/2edf40f0-e6c3-4b77-9d1f-7e453c43a465)
 
 [Dress Up screen wireframes](https://github.com/user-attachments/assets/5f13ab2c-626c-4470-a4fd-acf28973d560)
@@ -34,10 +40,12 @@ This was the stage where I needed to be able to stick to a layout and design tha
 [Results screen](https://github.com/user-attachments/assets/661f88db-73be-4d8f-8134-e58a04f4a425)
 
 ### Scope
+Having to work with limited time has helped me to prioritise getting the bare minimum criteria out of the way. Initially, I had bigger plans for it, but to have the playable version ready. I wanted to make this to remind myself that it was important to be able to have the user interact and get something out of the experience than have extra perks and lose sight of what was important. It helped me to take into account what I could include if I had completed the basic features earlier in advance.
+
 ![table of what to prioritise and what to leave out based on objectives](https://github.com/user-attachments/assets/eaa4864f-1b92-4438-946c-ec55b07caac1)
 
 ### Surface
-[Smoother look on final design]
+When it came down to the polished look. I wanted the theme to align with the character herself. Amy Rose can be bubbly and sweet so I assumed that a font like ‘Cherry Bomb One’ matched the bubbly side of her rather well. That was selected for the title. The font ‘Unkempt’ was used for the rest of the content as it is still more carefree in comparison to a . As far as the colour choice goes. I tried to go with various shades of pink, purple and red to make it clear that this game is focused on Amy Rose. I thought that by implementing roses in the background Amy shares the same surname as the name of the flower itself.
 
 ## User Stories
 1. As a 8 year old who wants to play cute dress up games. I want the game to have all kinds of clothes and stuff so that I can explore styles and try new ones.
@@ -56,19 +64,26 @@ This was the stage where I needed to be able to stick to a layout and design tha
 * Results
   * Users can see Amy with the outfit of their picking.
   * Users can select whether to try again or go back to the main menu.
-
-## Accessibility
-[include details on making the game accessible through colour contrast and aria-labels]
-
+ 
 ## Responsive Design
+At the beginning, I had tried to get the grid setup so that I had an easier time with adding important content later. From the beginning, I was a bit ambitious in how the game would be portrayed. Most of the official look for the webpages was more or less similar to the old wireframes. However, there were a few differences. The main menu has a profile of Amy instead of the whole body to save time. The dress up screen was adjusted so that the outfits menu was separated from Amy so that it doesn’t cut off the lower half of her body. 
 
 ![The wireframes](https://github.com/user-attachments/assets/477f1180-6fbe-465e-9d83-e7553708b8cb)
 
+At the first iteration of the game, it started off with the bare bones version of the web pages. I made sure to lay out the rough structure to put in the content later. I had used my wireframes as a reference for how the layout should work. I did label the boxes based on what content goes in there. I created the grey grids to plan out the layout before applying the main theme for the game.
+
 ![The beginning of the responsive designs](https://github.com/user-attachments/assets/d8e476f5-80b5-4309-a7e2-ace6f5d7d164)
+
+Once I had double checked that the layout was responsive in all screen sizes, I had just finished rendering Amy’s sprite and a few outfits. I placed some buttons for the user to interact with when they want to change how she looks. At this stage, my main content was implemented and I was confident on the layout that I had hidden the layout grid colours to check on how it appeared at the time.
 
 ![The updated version of the responsive designs](https://github.com/user-attachments/assets/31719740-f9e6-4bdb-89c2-874585b878de)
 
+## Accessibility
+![Exploring and comparing colour patches for my webpage.](https://github.com/user-attachments/assets/64c6b0c7-b71c-45f8-9d10-a52f8f979037)
+![Webpages with the colour scheme that I picked](https://github.com/user-attachments/assets/8e129a3f-18d1-4c75-af2a-927b3c6d8aaa)
+
 ## Testing → Bugs and Fixes
+I had decided to display the test results and solutions in a table rather than dozens of screenshots. I wanted to keep the tests, bugs and solutions tidied up so that other people could read up on what features were tested, the flaws they displayed and the solutions that I eventually found for each of them. Some of these were manual tests and some were done through HTML/CSS checker and lighthouse.
 
 ![testing results page 1](https://github.com/user-attachments/assets/03b0b573-353c-442e-b76c-2e37822b1436)
 ![testing results page 2](https://github.com/user-attachments/assets/234f13b7-ecde-41c9-9ef6-5bbc35ca1c12)
