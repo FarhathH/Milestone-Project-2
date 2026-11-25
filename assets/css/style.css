@@ -55,6 +55,10 @@ button:hover{
     border: 3px solid #520000;
 }
 
+.hide{
+    display: none;
+}
+
 /*
     testing out google fonts
 */
