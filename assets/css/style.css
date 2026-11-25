@@ -1,4 +1,7 @@
 /*
+    Info about the fonts being used
+*/
+/*
 .cherry-bomb-one-regular {
   font-family: "Cherry Bomb One", system-ui;
   font-weight: 400;
@@ -73,7 +76,8 @@ p{
 
 /*For the layout grid of the webpages*/
 .container{
-    /*background-color: aliceblue;*/
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
     height: fit-content;
     margin-top: 100px;
     padding-top: 100px;
@@ -81,13 +85,10 @@ p{
     
 }
 .row{
-    /*background-color: grey; */
     padding: 10px;
     text-align: center;
 }
 .contain{
-    /*background-color: lightslategrey;
-    border: solid 1px aliceblue;*/
     height: 100%;
 }
 
