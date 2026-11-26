@@ -26,6 +26,10 @@ $(document).ready(function(){
     var defaultOutfit = localStorage.getItem('nothing');
     localStorage.setItem('nothing', 4);
 
+    $("#next").click(function(){
+        window.location.href = "instructions.html";
+    });
+
     // Should redirect user to the dress up screen via click event handler
     $("#begin").click(function(){
         window.location.href = "dressupscreen.html";
