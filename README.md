@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This README contains the overall development of the [PROJECT-NAME] website. This project focused on a simple interactive dress-up game. I had used Amy Rose from the Sonic the Hedgehog franchise and to avoid copyright, I will not ever charge money for this. There are several outfits to drag and drop. You can apply different styles of makeup as well. You should be able to access the game by clicking the deployed link.
+This README contains the overall development of the [Amy Rose Dress-Up game](https://farhathh.github.io/Milestone-Project-2/index.html) website. This project focused on a simple interactive dress-up game. I had used Amy Rose from the Sonic the Hedgehog franchise and to avoid copyright, I will not ever charge money for this. There are several outfits to drag and drop. You can apply different styles of makeup as well. You should be able to access the game by clicking the deployed link.
 
 ## Purpose
 
@@ -48,9 +48,20 @@ Having to work with limited time has helped me to prioritise getting the bare mi
 When it came down to the polished look. I wanted the theme to align with the character herself. Amy Rose can be bubbly and sweet so I assumed that a font like ‘Cherry Bomb One’ matched the bubbly side of her rather well. That was selected for the title. The font ‘Unkempt’ was used for the rest of the content as it is still more carefree in comparison to a . As far as the colour choice goes. I tried to go with various shades of pink, purple and red to make it clear that this game is focused on Amy Rose. I thought that by implementing roses in the background Amy shares the same surname as the name of the flower itself.
 
 ## User Stories
-1. As a 8 year old who wants to play cute dress up games. I want the game to have all kinds of clothes and stuff so that I can explore styles and try new ones.
-2. As a year-7 student, I just wanted to look for a simple game that I can play on my mobile phone so that I don’t have to wait until I get home to play.
-3. As a young adult, I prefer to play these types of games with the visuals reminiscent of the Y2K era for nostalgic purposes. 
+1. **"As a 8 year old who wants to play cute dress up games. I want the game to have all kinds of clothes and stuff so that I can explore styles and try new ones."**
+* Good new was that I was able to complete this by:
+  * Illustrating some outfits for the user to try out.
+  * The start button navigates to the character in her undergarments ready to be dressed.
+* Bad news was that:
+  * Rendering the outfits did result in me losing time so there were only around four outfits to select in total which gives it less re-playability.
+  * I managed to upload one of my own rendered images for copilot to generate an image of Amy Rose in a y2k style outfit. It produced a nice looking design, but had a completely different style so I never really used it.
+
+2. **"As a year-7 student, I just wanted to look for a simple game that I can play on my mobile phone so that I don’t have to wait until I get home to play."**
+* For a younger student, they probably wanted to play on their phone during break or lunchtime. The website had been tested for different screen sizes.
+* The user will have an easier time playing the game on their phones as I double checked that the content is readable and the user can interact with it.
+
+3. **"As a young adult, I prefer to play these types of games with the visuals reminiscent of the Y2K era for nostalgic purposes."** 
+* Due to time constraints from poor work management. I had prioritised getting the main objectives completed firs
 
 ## Design
 [Include concept designs]
@@ -79,14 +90,20 @@ Once I had double checked that the layout was responsive in all screen sizes, I 
 ![The updated version of the responsive designs](https://github.com/user-attachments/assets/31719740-f9e6-4bdb-89c2-874585b878de)
 
 ## Accessibility
+When I was closer to my deadline, I had double checked the main background samples created earlier and used the WebAIM Contrast checker. Most of my own samples had a low contrast ratio. I initially made some samples of the main background. Most of the images in my web game have captions for the screen reader. Some of the main samples were made to check the contrast between the rose and each shade of light blue, dark blue, pink and yellow. Each time I compared the colours with the rose, each contrast ratio was too low. I ended up experimenting with lightness and darkness until I managed to find the appropriate contrast ratio as shown below.
+
 ![Exploring and comparing colour patches for my webpage.](https://github.com/user-attachments/assets/64c6b0c7-b71c-45f8-9d10-a52f8f979037)
+
+Once I managed to find a colour scheme that was accessible-friendly. I started editing the rose background image to have the colour scheme with a stronger colour contrast and applied it as a repeated background image with CSS.
+
 ![Webpages with the colour scheme that I picked](https://github.com/user-attachments/assets/8e129a3f-18d1-4c75-af2a-927b3c6d8aaa)
 
 ## Testing → Bugs and Fixes
 I had decided to display the test results and solutions in a table rather than dozens of screenshots. I wanted to keep the tests, bugs and solutions tidied up so that other people could read up on what features were tested, the flaws they displayed and the solutions that I eventually found for each of them. Some of these were manual tests and some were done through HTML/CSS checker and lighthouse.
 
-![testing results page 1](https://github.com/user-attachments/assets/03b0b573-353c-442e-b76c-2e37822b1436)
-![testing results page 2](https://github.com/user-attachments/assets/234f13b7-ecde-41c9-9ef6-5bbc35ca1c12)
+![testing results page 1](https://github.com/user-attachments/assets/08378a4b-04c6-4f7a-bb3d-2c11b22247db)
+![testing results page 2](https://github.com/user-attachments/assets/3eadad77-0a18-49b7-81c0-99e81cde541f)
+![testing results page 3](https://github.com/user-attachments/assets/05c1edc6-bc5b-4eb3-9466-c1cd124b686d)
 
 ## Deployment
 This project was made using VS Code and committed with GitHub Desktop majority of the time. Here are the steps to deploy the website on your own (if you already have the repository).
@@ -130,6 +147,8 @@ If you don’t have the repository yet, you will need to follow these steps to c
   *   The image of CD's and a CD player were taken from [Odin Reyna](https://www.pexels.com/@odin-reyna-383507/).
  
 ### Media:
+* Created the favicon icon by placing my own rendered .png and converted it into a .ico image with [Favicon Generator](https://realfavicongenerator.net/).
+* Gathered suitable colour scheme through the [WebAIM Contrast checker](https://webaim.org/resources/contrastchecker/).
 * Everything produced was used with VS Code, GIMP etc.
 * Fonts taken from [Google Fonts](https://fonts.google.com/selection):
   * Cherry Bomb One (for the main headings)
