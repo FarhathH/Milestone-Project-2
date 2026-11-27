@@ -1,19 +1,3 @@
-
-/**
- * tested the jQuery with this code
- */
-
-
-/**
- * 
- * $("button").click(function(){
-    $("body").css("backgroundColor", "black");
-    $("p").css("color", "yellow");
-});
- 
- */
-
-
 //Helps the code to load up ready for user interaction
 $(document).ready(function(){
     
