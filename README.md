@@ -63,9 +63,6 @@ When it came down to the polished look. I wanted the theme to align with the cha
 3. **"As a young adult, I prefer to play these types of games with the visuals reminiscent of the Y2K era for nostalgic purposes."** 
 * Due to time constraints from poor work management. I had prioritised getting the main objectives completed firs
 
-## Design
-[Include concept designs]
-
 ## Features
 * Main menu
   * Start button:
@@ -97,6 +94,9 @@ When I was closer to my deadline, I had double checked the main background sampl
 Once I managed to find a colour scheme that was accessible-friendly. I started editing the rose background image to have the colour scheme with a stronger colour contrast and applied it as a repeated background image with CSS.
 
 ![Webpages with the colour scheme that I picked](https://github.com/user-attachments/assets/8e129a3f-18d1-4c75-af2a-927b3c6d8aaa)
+
+![New Look after feedback on the games accessibility flaws](https://github.com/user-attachments/assets/98534659-d67a-4ce7-ae3e-febc72ce0dbc)
+![New look after feedback](https://github.com/user-attachments/assets/b9fd4f83-56ca-4a9f-8f5d-4c10d8bef781)
 
 ## Testing → Bugs and Fixes
 I had decided to display the test results and solutions in a table rather than dozens of screenshots. I wanted to keep the tests, bugs and solutions tidied up so that other people could read up on what features were tested, the flaws they displayed and the solutions that I eventually found for each of them. Some of these were manual tests and some were done through HTML/CSS checker and lighthouse.
