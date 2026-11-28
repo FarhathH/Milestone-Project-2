@@ -1,0 +1,23 @@
+{
+  "name": "milestone-project-2",
+  "version": "1.0.0",
+  "description": "This README contains the overall development of the [Amy Rose Dress-Up game](https://farhathh.github.io/Milestone-Project-2/index.html) website. This project focused on a simple interactive dress-up game. I had used Amy Rose from the Sonic the Hedgehog franchise and to avoid copyright, I will not ever charge money for this. There are several outfits to drag and drop. You can apply different styles of makeup as well. You should be able to access the game by clicking the deployed link.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhathH/Milestone-Project-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarhathH/Milestone-Project-2/issues"
+  },
+  "homepage": "https://github.com/FarhathH/Milestone-Project-2#readme",
+  "devDependencies": {
+    "jshint": "^0.5.9"
+  }
+}
